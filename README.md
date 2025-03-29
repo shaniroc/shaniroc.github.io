@@ -1,4 +1,3 @@
----
-title: Say hello to Shani
+Say hello to Shani
 ---
 MSc student 
