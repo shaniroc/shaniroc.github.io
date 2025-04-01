@@ -20,3 +20,5 @@ I moved to Rehovot a few months ago.
 [Course Repository](https://github.com/Code-Maven/wis-python-course-2025-03)
 
 ### Windows
+
+[hello](./hello.md)
