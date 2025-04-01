@@ -18,3 +18,5 @@ I moved to Rehovot a few months ago.
 **Email**: Shani.rochell@weizmann.ac.il
 
 [Course Repository](https://github.com/Code-Maven/wis-python-course-2025-03)
+
+### Windows
