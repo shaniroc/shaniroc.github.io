@@ -6,10 +6,10 @@ Hi, my name is Shani, a first year MSc student in Weizmann Institute of Science,
 
 I moved to Rehovot a few months ago.
 
-## Lab 
+## Rotation labs 
 
-1. [Eitan Reuveny] (https://www.weizmann.ac.il/Biomolecular_Sciences/reuveny/)
-2. [Schragi Schwartz] (https://www.weizmann.ac.il/molgen/schwartz/) 
+1. [Eitan Reuveny](https://www.weizmann.ac.il/Biomolecular_Sciences/reuveny/)
+2. [Schragi Schwartz](https://www.weizmann.ac.il/molgen/schwartz/) 
 
 ---
 
@@ -17,4 +17,4 @@ I moved to Rehovot a few months ago.
 
 **Email**: Shani.rochell@weizmann.ac.il
 
-[Course Repository] (https://github.com/Code-Maven/wis-python-course-2025-03)
+[Course Repository](https://github.com/Code-Maven/wis-python-course-2025-03)
