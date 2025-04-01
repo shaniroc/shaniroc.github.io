@@ -10,7 +10,9 @@ I moved to Rehovot a few months ago.
 
 1. [Eitan Reuveny] (https://www.weizmann.ac.il/Biomolecular_Sciences/reuveny/)
 2. [Schragi Schwartz] (https://www.weizmann.ac.il/molgen/schwartz/) 
+
 ---
+
 ### Contact Information
 
 **Email**: Shani.rochell@weizmann.ac.il
