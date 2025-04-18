@@ -12,15 +12,18 @@
       background: #e5ddd5;
       padding: 20px;
       border-right: 1px solid #ccc;
+      font-family: 'Calibri', sans-serif;
     }
     .sidebar h2 {
       margin-bottom: 10px;
       color: #075E54;
+      font-family: 'Calibri', sans-serif;
     }
     .chat {
       flex: 1;
       display: flex;
       flex-direction: column;
+      font-family: 'Calibri', sans-serif;
     }
     .header {
       background: #075E54;
@@ -28,12 +31,14 @@
       padding: 20px;
       font-size: 20px;
       font-weight: bold;
+      font-family: 'Calibri', sans-serif;
     }
     .messages {
       flex: 1;
       padding: 20px;
       background: #f0f0f0;
       overflow-y: auto;
+      font-family: 'Calibri', sans-serif;
     }
     .bubble {
       background: white;
@@ -42,6 +47,7 @@
       margin: 10px 0;
       max-width: 60%;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      font-family: 'Calibri', sans-serif;
     }
     .me {
       background: #dcf8c6;
@@ -52,10 +58,12 @@
 <body>
   <div class="sidebar">
     <h2>Profile</h2>
-    <p>Shani Rochell</p>
+    <p><strong>Shani Rochell</strong></p>
     <p>A student in a Python course</p>
-    <p>Email: Shani.rochell@weizmann.ac.il
-      [Course Repository](https://github.com/Code-Maven/wis-python-course-2025-03)</p>
+    <a href="https://github.com/Code-Maven/wis-python-course-2025-03" target="_blank" style="color: #128C7E; text-decoration: none; display: inline-block; margin-top: 10px;">
+  🌐 Visit wis-python-course-2025-03
+    </a>
+    <p><strong>My email:</strong> Shani.rochell@weizmann.ac.il</p>
   </div>
   <div class="chat">
     <div class="header">Chat with Me</div>
