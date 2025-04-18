@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About Me – WhatsApp Style</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; }
+    body { display: flex; height: 100vh; }
+    .sidebar {
+      width: 30%;
+      background: #e5ddd5;
+      padding: 20px;
+      border-right: 1px solid #ccc;
+    }
+    .sidebar h2 {
+      margin-bottom: 10px;
+      color: #075E54;
+    }
+    .chat {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+    .header {
+      background: #075E54;
+      color: white;
+      padding: 20px;
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .messages {
+      flex: 1;
+      padding: 20px;
+      background: #f0f0f0;
+      overflow-y: auto;
+    }
+    .bubble {
+      background: white;
+      padding: 10px 15px;
+      border-radius: 10px;
+      margin: 10px 0;
+      max-width: 60%;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    .me {
+      background: #dcf8c6;
+      align-self: flex-end;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h2>About Me</h2>
+    <p>Hi! I'm [Shani Rochell]. 👋</p>
+    <p>I love buiI am a student in a Python course.</p>
+  </div>
+  <div class="chat">
+    <div class="header">Chat with Me</div>
+    <div class="messages">
+      <div class="bubble">Hey there! 👋</div>
+      <div class="bubble me">Hi! I’m [Shani Rochell], I did my B.Sc in Biotechnology in Haddassah Academic College, Jerusalem. Today I am in my first year of my masters in Life Sciences in Weizmann School of Science.</div>
+      <div class="bubble">In which labs have you been??</div>
+      <div class="bubble me">Eitan Reuveny and Schragi Schwartz, now I'm starting at Michal Neeman's Lab!</div>
+    </div>
+  </div>
+</body>
+</html>
